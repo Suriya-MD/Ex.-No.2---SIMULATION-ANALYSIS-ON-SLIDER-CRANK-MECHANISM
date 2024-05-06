@@ -1,4 +1,4 @@
-# Ex. No.  - SIMULATION ANALYSIS ON SLIDER CRANK MECHANISM
+# Ex. No:2  - SIMULATION ANALYSIS ON SLIDER CRANK MECHANISM
 
 ## DATE: 
 
@@ -45,9 +45,14 @@
 
 ## Output
 
+![image](https://github.com/Suriya-MD/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/147120571/0bf51640-c3fd-47cc-bfcf-e0cb6a4dcc85)
 
-### Name:
-### Register Number: 
+![image](https://github.com/Suriya-MD/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/147120571/9e8584ba-6894-4ac4-80bd-284e3d0f41ef)
+
+![image](https://github.com/Suriya-MD/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/147120571/0b96d6a2-c36e-403a-8721-508ba94dd3b0)
+
+### Name           :  SURIYA M
+### Register Number:  212223110055
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
